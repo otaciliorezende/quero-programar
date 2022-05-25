@@ -94,10 +94,10 @@ let família = [
    {'nome': 'Mario' 'filho': false, 'idade' 36}
 ]
 console.log(família)
-for (let i = 0; i < 7; i++) {
+// for (let i = 0; i < 7; i++) {
 // o código que estiver aqui será repetido até o contador obedecer a condição
 // será repetido até 1 < 9, nesse caso.
-console.log(família[i].nome)
+// console.log(família[i].nome)
 
 
 
